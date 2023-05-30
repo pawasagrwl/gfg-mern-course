@@ -14,4 +14,3 @@ Assignment: Set up a Git repository for the e-commerce project. Create a respons
     Initialize a Git repository for the e-commerce project and commit the initial HTML and CSS files.
     Create a product listing page using HTML and CSS.
     Use media queries to ensure that the page layout adjusts dynamically based on the screen size, providing an optimal viewing experience on different devices (e.g., desktop, tablet, mobile).
-     
