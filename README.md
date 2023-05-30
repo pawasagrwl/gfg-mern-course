@@ -10,7 +10,15 @@ This directory contains all code for offline MERN course at GeeksForGeeks (GFG).
 
 - [`classwork`][classwork]: This folder contains my classwork for each week of the course.
 
-  - [`week1`][week1cls]: HTML-CSS-Git
+  - [`week1`][week1cls]: Introduction to Web Development & Version Control
+  - [`week2`][week2cls]: Advanced HTML, CSS, and JavaScript Fundamentals
+  - [`week3`][week3cls]: JavaScript DOM Manipulation & React Basics
+  - [`week4`][week4cls]: Building React Components & State Management
+  - [`week5`][week5cls]: React Routing & Lifecycle
+  - [`week6`][week6cls]: Introduction to Node.js & RESTful APIs
+  - [`week7`][week7cls]: Understanding MongoDB and its Implementation
+  - [`week8`][week8cls]: Advanced Node.js Concepts & Major Project
+
 
 [assignments]: https://github.com/pawasagrwl/gfg-mern-course/tree/master/classwork
 
