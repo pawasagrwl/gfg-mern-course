@@ -7,6 +7,7 @@ This directory contains all code for offline MERN course at GeeksForGeeks (GFG).
 - [`assignments`][assignments]: This folder contains my assignments for each week of the course.
 
   - [`week1`][week1asn]: E-commerce Landing Page and Git Repository
+  - [`week2`][week2asn]: Responsive E-commerce Layout and Registration Validation
 
 >
 
